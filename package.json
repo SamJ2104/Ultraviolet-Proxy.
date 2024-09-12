@@ -13,7 +13,7 @@
   "keywords": [
     "proxy"
   ],
-  "author": "",
+  "author": "samj",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@mercuryworkshop/bare-mux": "^2.0.5",
